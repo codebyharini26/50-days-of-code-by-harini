@@ -1,3 +1,4 @@
+//Check whwther the number is even or odd!
 package Day2;
 import java.util.Scanner;
 
