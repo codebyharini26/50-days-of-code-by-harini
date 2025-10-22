@@ -33,6 +33,5 @@ public class Main {
             scanner.close();
             System.err.println("Day 3 Completed!");
 }
-
 }
 
